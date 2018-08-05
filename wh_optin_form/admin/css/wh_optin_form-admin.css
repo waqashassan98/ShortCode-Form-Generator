@@ -1,0 +1,17 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ .wh_panel_body{
+ 	margin-top: 50px;
+ 	padding: 20px;
+ }
+
+ .wh_panel_body .instruction{
+ 	margin-top: 20px;
+ }
+  .wh_panel_body .instruction code{
+ 	margin-top: 10px;
+ 	display: block;
+ }
